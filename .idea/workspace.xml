@@ -3,47 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="235686e3-7c83-4d78-89b2-e934ad50d118" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/data/behaviors.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/data/behaviors.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/data/categories.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/data/categories.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/data/packages.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/data/suites.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/data/suites.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/data/test-cases/3053a7263b358d66.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/data/test-cases/690113869c27ea1b.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/data/test-cases/f4ddbad24bee78e5.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/data/timeline.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/export/influxDbData.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/export/mail.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/export/prometheusData.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/history/categories-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/history/duration-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/history/history-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/history/history.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/history/retry-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/plugins/behaviors/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/plugins/packages/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/plugins/screen-diff/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/plugins/screen-diff/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/widgets/behaviors.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/widgets/categories-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/widgets/categories.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/widgets/duration-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/widgets/duration.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/widgets/environment.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/widgets/executors.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/widgets/history-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/widgets/launch.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/widgets/retry-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/widgets/severity.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/widgets/status-chart.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/widgets/suites.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/widgets/summary.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/test_login.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/test_login.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
